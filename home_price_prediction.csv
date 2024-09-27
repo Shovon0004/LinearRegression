@@ -1,0 +1,7 @@
+Location,Size (sq. ft.),Bedrooms,Price (in Local Currency)
+Downtown,2000.0,3,500000
+Suburb,1500.0,2,350000
+Downtown,,4,600000
+Rural,1800.0,3,250000
+Suburb,1700.0,3,400000
+Downtown,2400.0,5,700000

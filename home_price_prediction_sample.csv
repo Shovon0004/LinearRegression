@@ -1,0 +1,7 @@
+Location,Size (sq. ft.),Bedrooms,Bathrooms,Year Built,Condition (1-10),Lot Size (sq. ft.),Proximity to Schools (miles),Crime Rate (per 1000),Transport Connectivity (1-10),Nearby Amenities (count),House Type,Price (in Local Currency)
+Downtown,2000,3,2,2005,8,5000,1.5,3,9,5,Detached,500000
+Suburb,1500,2,1,1990,6,4000,2.0,2,6,2,Semi-Detached,350000
+Downtown,2300,4,3,2015,9,6000,0.8,4,10,7,Apartment,600000
+Rural,1800,3,2,1980,5,8000,5.0,1,4,1,Detached,250000
+Suburb,1700,3,2,2000,7,4500,1.0,2,7,3,Apartment,400000
+Downtown,2400,5,4,2018,10,5500,0.5,3,10,8,Detached,700000
